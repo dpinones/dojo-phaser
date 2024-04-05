@@ -12,6 +12,8 @@ Install dependencies:
 yarn
 ```
 
+Rename `.env.example` to `.env`
+
 Run the development server:
 
 ```bash
