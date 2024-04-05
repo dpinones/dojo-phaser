@@ -51,4 +51,3 @@ To start Torii:
 ```bash
 torii --world 0x446f1f19ba951b59935df72974f8ba6060e5fbb411ca21d3e3e3812e3eb8df8
 ```
-```
